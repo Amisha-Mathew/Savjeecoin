@@ -1,0 +1,19 @@
+never delete or change a block
+proof of work- mining, lot of computing power into the work
+
+bitcoin- requires the hash of a block to begin with a 
+certain amount of zeroes
+have to try with a lot of combinations
+to create one new block every 10 minutes
+
+to create a block- create a transaction, compute its hash,
+and add it to an array
+
+difficulty- 2: block mined: starts with 2 zeroes
+increase difficulty to prevent spamming
+
+cryptocurrency- allow multiple transactions in a block
+add rewards for miners
+virtual money or coins
+
+pending transactions- only one block created every 10 minutes
